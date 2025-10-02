@@ -1328,20 +1328,20 @@
     "@tiptap/extension-text-style" "^2.11.5"
     "@tiptap/pm" "^2.11.5"
 
-"@tldraw/editor@4.0.2":
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/@tldraw/editor/-/editor-4.0.2.tgz#d350e78471acb246b9a42f73019115980e4f7fb2"
-  integrity sha512-IJtsBlPKPd3hSn6/8uxBbjT89sxsrgEPVJ8XiLeUpla+JJ89Zx8j7HwdGrLIvMIqg/4fdU1T15G/9KAWKHoq6A==
+"@tldraw/editor@4.0.3":
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/@tldraw/editor/-/editor-4.0.3.tgz#49c8aa01ba5b72f84c1010566aff00ac18a3ed62"
+  integrity sha512-RqfE6GjT9cmaPkvgPooaVyLGkeUITHO7s91PRR5etnDIwNLrUvZwsMANrc2EISKOrHU2Yh/dLN9sAqwuVjDJSg==
   dependencies:
     "@tiptap/core" "^2.9.1"
     "@tiptap/pm" "^2.9.1"
     "@tiptap/react" "^2.9.1"
-    "@tldraw/state" "4.0.2"
-    "@tldraw/state-react" "4.0.2"
-    "@tldraw/store" "4.0.2"
-    "@tldraw/tlschema" "4.0.2"
-    "@tldraw/utils" "4.0.2"
-    "@tldraw/validate" "4.0.2"
+    "@tldraw/state" "4.0.3"
+    "@tldraw/state-react" "4.0.3"
+    "@tldraw/store" "4.0.3"
+    "@tldraw/tlschema" "4.0.3"
+    "@tldraw/utils" "4.0.3"
+    "@tldraw/validate" "4.0.3"
     "@types/core-js" "^2.5.8"
     "@use-gesture/react" "^10.3.1"
     classnames "^2.5.1"
@@ -1350,43 +1350,43 @@
     idb "^7.1.1"
     is-plain-object "^5.0.0"
 
-"@tldraw/state-react@4.0.2":
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/@tldraw/state-react/-/state-react-4.0.2.tgz#59583ef780aefb0523938858eef942295a9b2bd2"
-  integrity sha512-D/4KqoFg1m/A5txSAZ7XjBl8UT8aODiHdmrMMTEGaVVSlaDnWkDkud12FYBVlqZpzwoCEBk44h1Cs3iDdxey1w==
+"@tldraw/state-react@4.0.3":
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/@tldraw/state-react/-/state-react-4.0.3.tgz#178eea92a0085b9bee2101e6748a3a7358a066cc"
+  integrity sha512-J0QcArdyi+DDCgvS1m9TiAJWm8aV+qvzz7BbiyXB3aJ5LwUVBwiilhC9GWHGM0gKtKXuOD2SIx4JOBeacB9XCw==
   dependencies:
-    "@tldraw/state" "4.0.2"
-    "@tldraw/utils" "4.0.2"
+    "@tldraw/state" "4.0.3"
+    "@tldraw/utils" "4.0.3"
 
-"@tldraw/state@4.0.2":
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/@tldraw/state/-/state-4.0.2.tgz#bf32d245f6e2602484c821ad9f344d76778df007"
-  integrity sha512-AZLgJow4PsvF0xZtlxbOQlLA3mZb8K6EwQa7csOXxN2Yobtdx45snTdMtQ7e+u5BF40Igcl15w+dZhzegFAuHg==
+"@tldraw/state@4.0.3":
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/@tldraw/state/-/state-4.0.3.tgz#13eedb1361b96fcb555cf440d9bf6525ce2cc47d"
+  integrity sha512-dxpcu+QkYccep0pyMKZUgviR4ODx4omLX0BgHqluiX3SpOSsi3mLNc9sg7VP5ZNxs5jPpQxEV3JskpeTCHPAWA==
   dependencies:
-    "@tldraw/utils" "4.0.2"
+    "@tldraw/utils" "4.0.3"
 
-"@tldraw/store@4.0.2":
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/@tldraw/store/-/store-4.0.2.tgz#3948c188543f2402eb943a716701997e69ffde9f"
-  integrity sha512-3VhpL2sLbrtrhZKO/kqGiMAN8SweE4xg24tKtI3KUEbGs4PR+xxogOaoUEKlHjtefpAuAJGfpg/IZ9+F8pROqw==
+"@tldraw/store@4.0.3":
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/@tldraw/store/-/store-4.0.3.tgz#5c74cf6c6cc24918690824caa4a72f4741250df6"
+  integrity sha512-Z+Jsr9i0HN58g84XuDjbPkt1N00Sefy+dJ3ZmBI4GjpIX2mT7YZ98wyK2Em9vntoXov4pa+yVfQWlkLQZYMzhA==
   dependencies:
-    "@tldraw/state" "4.0.2"
-    "@tldraw/utils" "4.0.2"
+    "@tldraw/state" "4.0.3"
+    "@tldraw/utils" "4.0.3"
 
-"@tldraw/tlschema@4.0.2":
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/@tldraw/tlschema/-/tlschema-4.0.2.tgz#74e19d9d9f6b93c1072657fa99698972ec7b4298"
-  integrity sha512-AFvVdNkaiyN64fzcNu84cPWW0sDoc0MJ8iis8ds6SEJ2yu3/qSvm7NK0OzMUW/copeZQwapwOvswEnkkmvg8PA==
+"@tldraw/tlschema@4.0.3":
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/@tldraw/tlschema/-/tlschema-4.0.3.tgz#af7517e16e0ac858108eac035bcbec01e4c3b88d"
+  integrity sha512-obzbZ/POz4yI9dV5E+yUxmPWmb/dLwmrTe7wyISktue22nbXJQJYgWpyAEQs1cQ1iRjdNv7PpuFZdC8NzKNddg==
   dependencies:
-    "@tldraw/state" "4.0.2"
-    "@tldraw/store" "4.0.2"
-    "@tldraw/utils" "4.0.2"
-    "@tldraw/validate" "4.0.2"
+    "@tldraw/state" "4.0.3"
+    "@tldraw/store" "4.0.3"
+    "@tldraw/utils" "4.0.3"
+    "@tldraw/validate" "4.0.3"
 
-"@tldraw/utils@4.0.2":
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/@tldraw/utils/-/utils-4.0.2.tgz#41f0dd3eed31c9620f6e321d88ce2bf61b8b67fe"
-  integrity sha512-alxdjhaZiVsnOYgyYs+0e2zcJy4nb6HkwP7OKZW8AS/mcxqeYdCnMde2l0IC+RWwIQ40uKbCvg8Yfg7vlhAuyA==
+"@tldraw/utils@4.0.3":
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/@tldraw/utils/-/utils-4.0.3.tgz#b3727519111b3274d507b33ae3070517d596bfdd"
+  integrity sha512-CVQ86wRvVmmP8ZCgOkUa5xe51F574iZG1hhEbZyOTT7JjEqXAM5OA7IY0m+B0UNB/rEcDvqJGKI10Ap454zFSA==
   dependencies:
     jittered-fractional-indexing "^1.0.0"
     lodash.isequal "^4.5.0"
@@ -1394,12 +1394,12 @@
     lodash.throttle "^4.1.1"
     lodash.uniq "^4.5.0"
 
-"@tldraw/validate@4.0.2":
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/@tldraw/validate/-/validate-4.0.2.tgz#8a870134959228c344ab23c284577d9932a4ffa4"
-  integrity sha512-Rw/dJYfS5sQpKgjaP+r1jPoacXIW4kD6SaM80NE6oB4qKGvvkn02Rc5P1dRzTOyQonxnLrdT3LG0PIyIU1NTSQ==
+"@tldraw/validate@4.0.3":
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/@tldraw/validate/-/validate-4.0.3.tgz#c7fef92c7dd935d4d1c707d91e2c2058a1e1107e"
+  integrity sha512-rM575xqCo4VWrZP1w4kMW+vW2WiLv02g8FYfHmwNQF0k4CjAxRBz6gtMuX6GqDk9STJqk+C7LrR54F3SNzXLbg==
   dependencies:
-    "@tldraw/utils" "4.0.2"
+    "@tldraw/utils" "4.0.3"
 
 "@types/core-js@^2.5.8":
   version "2.5.8"
@@ -2642,10 +2642,10 @@ tippy.js@^6.3.7:
   dependencies:
     "@popperjs/core" "^2.9.0"
 
-tldraw@4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/tldraw/-/tldraw-4.0.2.tgz#516de5ef33fb45823ed85c010dc8bf0e2403ee15"
-  integrity sha512-5LYX6LTUxPj/4FBouAsUJw4+VRWVDVPwFSNINTgaiLh660s9oi+z/nJg531GSP/RbMm0T0oJJoEBWYd+mf2fFA==
+tldraw@4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/tldraw/-/tldraw-4.0.3.tgz#6315d5f96f1aa6c537c7ae6358f814a8b263a9be"
+  integrity sha512-1aM+Pl79AXWd8bVbtLuR23+aVijdC/htDy0IXSy60fMV+Soc+gCWl8BUn5Tr6q5RHzI7AL2P0gvLl1B6KOHgow==
   dependencies:
     "@tiptap/core" "^2.9.1"
     "@tiptap/extension-code" "^2.9.1"
@@ -2654,8 +2654,8 @@ tldraw@4.0.2:
     "@tiptap/pm" "^2.9.1"
     "@tiptap/react" "^2.9.1"
     "@tiptap/starter-kit" "^2.9.1"
-    "@tldraw/editor" "4.0.2"
-    "@tldraw/store" "4.0.2"
+    "@tldraw/editor" "4.0.3"
+    "@tldraw/store" "4.0.3"
     classnames "^2.5.1"
     hotkeys-js "^3.13.9"
     idb "^7.1.1"
