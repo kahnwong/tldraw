@@ -5,6 +5,12 @@
 	</picture>
 </div>
 
+---
+
+Code freeze due to upstream license change.
+
+---
+
 This repo contains a template you can copy for using [tldraw](https://github.com/tldraw/tldraw) with the [Vite](https://vitejs.dev/) development environment.
 
 ## Local development
